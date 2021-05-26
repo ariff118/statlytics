@@ -22,7 +22,7 @@ banner:
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
   enable: true
-  title: A Digital Marketing <br/> & Design Agency
+  title: A Statistical & Data <br/> Analytics Academy
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
